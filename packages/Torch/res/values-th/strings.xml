@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">วิทยุ FM</string>
+    <!-- no translation found for about -->
+    <!-- no translation found for about_btn -->
+    <!-- no translation found for about_title -->
+    <!-- no translation found for about_close -->
+    <!-- no translation found for description -->
+    <!-- no translation found for warning -->
+    <!-- no translation found for license -->
+    <!-- no translation found for warning_label -->
+    <!-- no translation found for brightwarn -->
+    <!-- no translation found for brightwarn_title -->
+    <!-- no translation found for brightwarn_negative -->
+    <!-- no translation found for brightwarn_accept -->
+    <!-- no translation found for label_on -->
+    <!-- no translation found for label_off -->
+    <!-- no translation found for label_high -->
+    <!-- no translation found for label_strobe -->
+    <!-- no translation found for label_frequency -->
+    <!-- no translation found for widget_options -->
+    <!-- no translation found for setting_widget_bright -->
+    <!-- no translation found for setting_widget_strobe -->
+    <!-- no translation found for setting_frequency_title -->
+    <!-- no translation found for setting_frequency_summary -->
+    <!-- no translation found for setting_frequency_dialog -->
+    <!-- no translation found for setting_frequency_hz -->
+    <!-- no translation found for setting_add_widget -->
+    <!-- no translation found for not_torch_title -->
+    <!-- no translation found for not_torch_summary -->
+    <!-- no translation found for widget_label -->
+    <!-- no translation found for bright_light -->
+    <!-- no translation found for hello_world -->
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Actualización de sistema</string>
+    <string name="fetch_failed">No se ha podido buscar paquetes. Por favor revise su conexión a la red.
+    </string>
+    <string name="updates">Actualizaciones</string>
+    <string name="confirm_install">Actualización lista para instalar. ¿Quiere instalarla ahora?
+    </string>
+    <string name="confirm_install_installed">Esta actualización ya está instalada. ¿Quiere volver a instalarla?</string>
+    <string name="system_update">Actualizaciones de sistema</string>
+    <string name="checking_for_updates">Buscando actualizaciones...</string>
+    <string name="installed">(instalado)</string>
+    <string name="deprecated">(obsoleto)</string>
+    <string name="downloading_update">Descargando actualización...</string>
+    <string name="new_updates">Actualización de sistema</string>
+    <string name="new_update_info">¡Está disponible una actualización de sistema!</string>
+    <string name="search_updates">Buscar actualizaciones ahora</string>
+    <string name="never">nunca</string>
+    <string name="last_checked">Última comprobación:</string>
+    <string name="build_ready">La actualización está lista para instalar</string>
+    <string name="build_ready_description">Toque aquí para instalar.</string>
+    <string name="download_failed">La descarga de la actualización falló o fue cancelada.</string>
+    <string name="install_failed">¡Falló la instalación! Por favor reinicie el dispositivo e intente de nuevo o instale el paquete manualmente.</string>
+    <string name="preparing_update">Preparando la instalación...</string>
+</resources>

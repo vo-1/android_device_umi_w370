@@ -1,0 +1,37 @@
+<resources>
+    <string-array name="update_interval_entries" translatable="false">
+        <item>@string/check_never</item>
+        <item>@string/check_on_boot</item>
+        <item>@string/check_every_hour</item>
+        <item>@string/check_daily</item>
+        <item>@string/check_weekly</item>
+    </string-array>
+
+    <string-array name="update_interval_values" translatable="false">
+        <item>-1</item>
+        <item>0</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>10080</item>
+    </string-array>
+
+    <string-array name="add_script_item_entries" translatable="false">
+        <item>@string/script_install</item>
+        <item>@string/script_backup</item>
+        <item>@string/script_command</item>
+    </string-array>
+
+    <string-array name="dialog_wipe_items" translatable="false">
+        <item>@string/cache</item>
+        <item>@string/data</item>
+    </string-array>
+
+    <string-array name="dialog_backup_items" translatable="false">
+        <item>@string/script_backup_system</item>
+        <item>@string/script_backup_data</item>
+        <item>@string/script_backup_cache</item>
+        <item>@string/script_backup_boot</item>
+        <item>@string/script_backup_skip_md5</item>
+        <item>@string/script_backup_compress</item>
+    </string-array>
+</resources>

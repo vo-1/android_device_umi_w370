@@ -1,0 +1,10 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="installation_script"
+        android:title="@string/installation_script" />
+    <Preference
+        android:icon="@drawable/ic_add"
+        android:key="add_script_item"
+        android:persistent="false"
+        android:title="@string/add_item" />
+</PreferenceScreen>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atualizações do sistema</string>
+    <string name="fetch_failed">Falha ao buscar compilações. Por favor, verifique sua conexão de rede.</string>
+    <string name="updates">Atualizações</string>
+    <string name="confirm_install">Uma atualização está pronta para instalação. Deseja instalar agora? Uma reinicialização é necessária.
+    </string>
+    <string name="confirm_install_installed">Esta atualização já está instalada. Você deseja reinstalá-la?</string>
+    <string name="confirm_install_deprecated">Esta atualização é obsoleta. Instalá-la pode causar travamentos e problemas de estabilidade. Você realmente deseja instalá-la?</string>
+    <string name="system_update">Atualizações do sistema</string>
+    <string name="checking_for_updates">Verificando atualizações...</string>
+    <string name="installed">(instalado)</string>
+    <string name="deprecated">(obsoleto)</string>
+    <string name="downloading_update">Baixando atualização...</string>
+    <string name="new_updates">Atualizações do sistema</string>
+    <string name="new_update_info">Uma atualização do sistema está disponível!</string>
+    <string name="search_updates">Verificar atualizações agora</string>
+    <string name="never">nunca</string>
+    <string name="last_checked">Última verificação:</string>
+    <string name="build_ready">Atualização pronta para instalar</string>
+    <string name="build_ready_description">Tap here to install.</string>
+    <string name="download_failed">Download da atualização falhou ou foi cancelado.</string>
+    <string name="install_failed">Instalação falhou! Por favor, reinicie e tente novamente ou instale a atualização manualmente.</string>
+    <string name="preparing_update">Preparando instalação...</string>
+    <string name="check_never">Nunca</string>
+    <string name="check_on_boot">A cada inicialização</string>
+    <string name="check_every_hour">A cada hora</string>
+    <string name="check_daily">Diariamente</string>
+    <string name="check_weekly">Semanalmente</string>
+    <string name="notify_update">Notificar sobre novas atualizações</string>
+    <string name="update_interval">Intervalo</string>
+    <string name="downloaded">baixado</string>
+    <string name="changelog">Changelog</string>
+    <string name="released">Lançado</string>
+    <string name="type">Tipo</string>
+    <string name="size">Tamanho</string>
+    <string name="full_update">Atualização completa</string>
+    <string name="incremental_update">Atualização incremental</string>
+    <string name="menu_advanced">Avançado</string>
+    <string name="installation_script">Script de instalação</string>
+    <string name="add_item">Adicionar…</string>
+    <string name="script_install">Instalar</string>
+    <string name="script_wipe">Limpar</string>
+    <string name="script_backup">Backup</string>
+    <string name="script_command">Comando</string>
+    <string name="script_update_file">Arquivo de atualização</string>
+    <string name="script_backup_skip_md5">Pular MD5</string>
+    <string name="script_backup_compress">Compactar</string>
+    <string name="up">Cima</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Фонарик</string>
+    <string name="about">О: </string>
+    <string name="about_btn">О фонарике</string>
+    <string name="about_title">О</string>
+    <string name="about_close">Закрыть</string>
+    <string name="description">Эта программа управляет LED камеры.\n</string>
+    <string name="warning">Внимание: Оставление LED включенным на долгое время может привести к перегреву.\n\nПолная яркость в режиме \'всегда\' тестировалась в течение 1/2 часа, однако есть риск, что это может привести к повреждению LED.\n</string>
+    <string name="license">Оригинальный код фонарика Nexus One Flashlight от Бена Бакстона, выпущен под GPL, v3.\nhttp://n1torch.googlecode.com/\n\nС благодарностью Дэвиду Прието за новый дизайн UI.\n\nМодифицировано для CyanogenMod Стивом Кондиком.\n\n</string>
+    <string name="warning_label">Внимание</string>
+    <string name="brightwarn">Полная яркость была успешно протестирована в течение 1/2 часа, но на 45 минуте сильно нагрелся и начал мерцать (периодически). Последствия длительного использования неизвестны.\n\nЭто пока не поддерживается виджетом.\n\nНажмите \'Принять\' если Вы согласны использовать его на свой риск.</string>
+    <string name="brightwarn_title">Кнопка\'ВКЛ\' высокой яркости!!!</string>
+    <string name="brightwarn_negative">Нет, спасибо</string>
+    <string name="brightwarn_accept">Принять</string>
+    <string name="label_on">Включить</string>
+    <string name="label_off">Выключить</string>
+    <string name="label_high">Высокая яркость</string>
+    <string name="label_strobe">Строб-импульс</string>
+    <string name="label_frequency">Частота: (проведите пальцем по экрану, чтобы изменить)</string>
+    <string name="widget_options">Общие параметры</string>
+    <string name="setting_widget_bright">Яркий виджет</string>
+    <string name="setting_widget_strobe">Строб-импульс</string>
+    <string name="setting_frequency_title">Частота строб-импульсов</string>
+    <string name="setting_frequency_summary">Частота стробирующего сигнала</string>
+    <string name="setting_frequency_dialog">Частота</string>
+    <string name="setting_frequency_hz"> Гц</string>
+    <string name="setting_add_widget">Добавить виджет</string>
+    <string name="not_torch_title">Фонарик включен</string>
+    <string name="not_torch_summary">Фонарик включен в данный момент</string>
+    <string name="widget_label">Фонарик</string>
+    <string name="bright_light">яркий свет</string>
+    <string name="hello_world">hello world</string>
+</resources>
